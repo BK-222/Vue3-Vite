@@ -17,7 +17,7 @@ export default defineConfig({
   build: {
         rollupOptions: {
             external: [
-                "src/router/index.js"
+                "./router/index.js"
             ]
         }
     }
