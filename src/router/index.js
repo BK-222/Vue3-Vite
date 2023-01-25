@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import Main from '@/pages/main/index.vue'
 import One from '@/pages/one/index.vue' 
 import NotFound from '@/layouts/404error.vue'
-import Main from '@/pages/main/index.vue'
 
 const router = createRouter({
   history: createWebHistory(),
