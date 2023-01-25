@@ -1,4 +1,4 @@
-{
+= {
   "name": "vuejs-with-vite",
   "version": "0.0.0",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "vue": "^3.2.37",
+    "vue-router": "^4.1.6",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
